@@ -1,8 +1,5 @@
-package com.rala.arrayPractice;
-
 import java.util.Scanner;
-
-public class FindIndex {
+public class RalaFindIndex {
 	
 	public static void main(String args[]) {
 		

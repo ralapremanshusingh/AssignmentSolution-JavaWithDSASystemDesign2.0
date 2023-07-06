@@ -1,8 +1,5 @@
-package com.rala.arrayPractice;
-
 import java.util.Scanner;
-
-public class SumOfAllIntegerInAnArray {
+public class RalaSumOfAllIntegerInAnArray {
 	
 	int[] assignArray(int[] a) {
 		Scanner scan = new Scanner(System.in);
@@ -25,7 +22,7 @@ public class SumOfAllIntegerInAnArray {
 
 public static void main(String args[]) {
 	
-	SumOfAllIntegerInAnArray b= new SumOfAllIntegerInAnArray();
+	RalaSumOfAllIntegerInAnArray b= new RalaSumOfAllIntegerInAnArray();
 		
 	System.out.print("Enter Elements Length : ");
 	Scanner scan = new Scanner(System.in);

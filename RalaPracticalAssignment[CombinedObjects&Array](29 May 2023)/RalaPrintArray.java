@@ -1,6 +1,4 @@
-package com.rala.arrayPractice;
-
-public class PrintArray {
+public class RalaPrintArray {
 
 	public static void main(String args[]) {
 		

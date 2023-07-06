@@ -1,6 +1,4 @@
-package com.rala.arrayPractice;
-
-public class AnotherClassMethodCallInMainMethod {
+public class RalaAnotherClassMethodCallInMainMethod {
 	
 	public static void main(String args[]) {
 		
@@ -8,7 +6,6 @@ public class AnotherClassMethodCallInMainMethod {
 		anotherClass.anotherClassMethod();
 		
 	}
-
 }
 
 class AnotherClass {

@@ -1,8 +1,5 @@
-package com.rala.arrayPractice;
-
-public class MethodOverloadingWith3DifferentParameter {
-	
-	public static void main(String args[]) {
+public class RalaMethodOverloadingWith3DifferentParameter {
+		public static void main(String args[]) {
 		
 		Method method = new Method();
 		method.parentMethod("Sonu", 4, 'b');
