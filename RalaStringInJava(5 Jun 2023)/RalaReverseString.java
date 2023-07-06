@@ -1,4 +1,4 @@
-public class ReverseString {
+public class RalaReverseString {
     public static void main(String args[]) {
     StringBuffer  stringBuffer = new StringBuffer();
     stringBuffer.append("PWSKILLS");
