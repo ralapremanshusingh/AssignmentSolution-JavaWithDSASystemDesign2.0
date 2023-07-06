@@ -13,6 +13,7 @@ public class RalaDeleteAllConsonat {
             str2+=str.charAt(i);
 
         System.out.println(str2);
+        sc.close();
 
     }
 }
